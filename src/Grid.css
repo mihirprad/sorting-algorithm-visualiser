@@ -1,0 +1,11 @@
+#grid{
+    width: 80%;
+    min-width: 150px;
+    max-width:600px;
+    background-color: black;
+    min-height:400px;
+    margin:auto;
+    display:flex;
+    align-items: flex-end;
+    
+}
